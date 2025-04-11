@@ -857,3 +857,8 @@
       grid-template-columns: 1fr;
     }
   }
+
+  /* Utility Classes */
+.nowrap {
+  white-space: nowrap;
+}
